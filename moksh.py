@@ -10,3 +10,5 @@ numbers = [1, 2, 3, 4, 5]
 # Calculate the sum of squares
 result = sum_of_squares(numbers)
 print(f"Sum of squares: {result}")
+
+MY NAME IS MOKSH
